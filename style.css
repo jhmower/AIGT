@@ -1,0 +1,64 @@
+h1{
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 200;
+	font-family: 'Indie Flower', cursive;
+	line-height: .5em;
+	}
+h2{
+	color: #bababa;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	text-transform: upppercase;
+}
+body{
+  /* Old browsers */
+  background: #41b20c;
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(-90deg, #41b20c, #141E30);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(-90deg, #135b10, #141E30);
+  }
+.def {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 16px;
+	color: #7bc5e0
+  }
+.intro {
+	font-family:calibri;
+	font-size:25px;
+	color: #7bc5e0
+}
+address{
+	font-family: calibri;
+	color:#fff37a;
+	text-align: center; 
+}
+a:link{
+	color:#e51d1d;
+	text-decoration:none;
+}
+a:visited{
+	color:#fff37a;
+	text-decoration:none;
+}
+a:active{
+	color:white;
+	text-decoration:none;
+}
+a:hover{
+	color:#7bc5e0;
+}
+img {
+	height:350px;
+	width:500px;
+	border-radius: 30px;
+}
+.friends {
+	float:right;
+	height:350px;
+	width:500px;
+	border-radius: 30px;
+}
